@@ -1,0 +1,4 @@
+-- create or replace table public.article_backup
+-- as select * from data_model.customer
+-- ; insert overwrite into public.article 
+-- select * from temp.customer;
